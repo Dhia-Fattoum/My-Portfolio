@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Dhia-Fattoum/My-Portfolio/issues"
   },
-  "homepage": "https://github.com/Dhia-Fattoum/My-Portfolio#readme"
+  "homepage": "https://github.com/Dhia-Fattoum/My-Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "fontawesome": "^5.6.3"
+  }
 }
