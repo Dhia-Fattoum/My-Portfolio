@@ -1,0 +1,21 @@
+{
+  "name": "My-Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhia-Fattoum/My-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhia-Fattoum/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Dhia-Fattoum/My-Portfolio#readme"
+}
